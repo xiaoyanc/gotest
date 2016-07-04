@@ -1,0 +1,2 @@
+# gotest
+for go test
